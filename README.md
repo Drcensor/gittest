@@ -10,6 +10,7 @@ https://github.com/Gratto2988/gittest.git
 We recommend every repository include a README, LICENSE, and .gitignore.
 
 //---------------------------------------------------------------------------------------------------
+
 …or create a new repository on the command line
 
 echo "# gittest" >> README.md
@@ -20,6 +21,7 @@ git remote add origin https://github.com/Gratto2988/gittest.git
 git push -u origin master
 
 //---------------------------------------------------------------------------------------------------
+
 …or push an existing repository from the command line
 
 git remote add origin https://github.com/Gratto2988/gittest.git
